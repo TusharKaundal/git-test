@@ -118,4 +118,4 @@ log 2~a~
 
 ### Superscript
 
-X^2^
+X ^2^
