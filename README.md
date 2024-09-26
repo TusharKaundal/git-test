@@ -114,8 +114,8 @@ I need to highlight these <mark>very important words</mark>.
 
 ### Subscript
 
-log 2~a~
+log 2<sub>a</sub>
 
 ### Superscript
 
-X ^2^
+X<sup>2</sup>
